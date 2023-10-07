@@ -1,5 +1,5 @@
 # JavaGames
-A collection of games and apps that I made in Java. I worked on these projects as I learned how to program in Java and use the Swing library, so some of the methods I used may be considered bad practice. Please dont judge me as a programmer based on these projects because I was still learning :). 
+A collection of my most proud games and apps that I made in Java. I worked on these projects as I learned how to program in Java and use the Swing library, so some of the methods I used may be considered bad practice. Please dont judge me as a programmer based on these projects because I was still learning :). 
 If you want to run any of these programs on your own computer, I recomend downloading the files and using an IDE like eclipse to run them. 
 
 ### Battleship
@@ -10,3 +10,7 @@ I made this project to showcase the various different AWT and Swing components. 
 
 ### Pong
 This is one of the first games I ever made with a GUI. I followed a video tutorial for most of it, and then I went back and added my own feature: a difficulty selector. The difficulty determined how fast the ball would bounce of the paddles. I even made the ball get faster each time it bounced off a paddle. 
+
+### Simple Maze Game
+My goal for this game was to make a randomly generated maze that would constantly move up meaning the player would have to keep traversing the maze. Unfortunately, my attempts at making such a complex algorithm failed and this project went incomplete. Maybe one day I will tackle this game idea again because it seems like it would be pretty fun to play.
+
